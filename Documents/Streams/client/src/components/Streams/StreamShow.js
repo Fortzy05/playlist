@@ -1,6 +1,6 @@
 import React from "react";
 
-const StreamShow = () => {
+export const StreamShow = () => {
   return <div>StreamShow</div>;
 };
 
